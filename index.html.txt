@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explora el Universo</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Orbitron:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Explora el Universo</h1>
+        <nav>
+            <ul>
+                <li><a href="#intro">Inicio</a></li>
+                <li><a href="#datos">Datos Curiosos</a></li>
+                <li><a href="#exploracion">Exploración</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="intro">
+            <h2>Bienvenidos al Cosmos</h2>
+            <p>El universo es un lugar vasto y misterioso, lleno de galaxias, estrellas y planetas. Desde la Tierra, hemos comenzado a explorar sus secretos, descubriendo maravillas que desafían nuestra imaginación.</p>
+            <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564" alt="Galaxia en el espacio" class="imagen">
+        </section>
+
+        <section id="datos">
+            <h2>Datos Curiosos</h2>
+            <p>Aquí tienes algunos hechos fascinantes sobre el universo:</p>
+            <ul>
+                <li>El universo tiene aproximadamente 13.8 mil millones de años.</li>
+                <li>El Sol es una de las 100 mil millones de estrellas en la Vía Láctea.</li>
+                <li>La luz de las estrellas puede tardar millones de años en llegar a nosotros.</li>
+            </ul>
+        </section>
+
+        <section id="exploracion">
+            <h2>Exploración Espacial</h2>
+            <p>La humanidad ha enviado sondas y telescopios para estudiar el cosmos. La NASA lidera misiones como el telescopio James Webb, que captura imágenes de galaxias lejanas. <a href="https://www.nasa.gov" target="_blank">Visita la NASA</a> para saber más.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Creado por Jeremy Díaz | 2025</p>
+    </footer>
+</body>
+</html>
